@@ -18,6 +18,7 @@
 	"keywords": [
 		"theme"
 	],
+	"icon": "./icon.png",
 	"contributes": {
 		"themes": [
 			{
