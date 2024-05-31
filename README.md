@@ -1,4 +1,4 @@
-# OA515
+# [OA515](https://marketplace.visualstudio.com/items?itemName=kingllama.oa515)
 An oasis in a desert of light themes.
 
 ## Themes
