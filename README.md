@@ -19,5 +19,5 @@ While the light theme is the heart of OA515, there's a matching dark theme to go
 ## Attribution
 
 - The font in the above screenshots is *Menlo*
-- This theme was originally developed on themes.vscode.one
+- This theme was originally developed with [themes.vscode.one](themes.vscode.one)
 
