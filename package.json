@@ -1,41 +1,44 @@
 {
-	"name": "oa515",
-	"displayName": "OA515",
-	"description": "An oasis in a desert of light themes",
-	"version": "^1.2.0",
-	"publisher": "king_llama",
-	"license": "MIT",
-	"pricing": "Free",
-	"repository": {
-		"type": "git",
-		"url": ""
-	},
-	"engines": {
-		"vscode": "^1.13.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"theme"
-	],
-	"galleryBanner": {
+  "name": "oa515",
+  "displayName": "OA515",
+  "description": "An oasis in a desert of light themes",
+  "version": "^1.2.0",
+  "publisher": "king_llama",
+  "license": "MIT",
+  "pricing": "Free",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kingllama/vscode-OA515.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kingllama/vscode-OA515/issues"
+  },
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme"
+  ],
+  "galleryBanner": {
     "color": "#f7f4eb",
     "theme": "light"
   },
-	"icon": "./icon.png",
-	"contributes": {
-		"themes": [
-			{
-				"label": "OA515",
-				"uiTheme": "vs",
-				"path": "./themes/OA515-color-theme.json"
-			},
-			{
-				"label": "OA515 Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/OA515-dark-color-theme.json"
-			}
-		]
-	}
+  "icon": "./icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "OA515",
+        "uiTheme": "vs",
+        "path": "./themes/OA515-color-theme.json"
+      },
+      {
+        "label": "OA515 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OA515-dark-color-theme.json"
+      }
+    ]
+  }
 }

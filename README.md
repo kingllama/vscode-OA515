@@ -14,7 +14,7 @@ While the light theme is the heart of OA515, there's a matching dark theme to go
 ![OA515 Light Theme](./images/OA515-light.png)
 
 ##### OA515 Dark
-![OA515 Dark Theme](./images/OA515-light.png)
+![OA515 Dark Theme](./images/OA515-dark.png)
 
 ## Attribution
 
