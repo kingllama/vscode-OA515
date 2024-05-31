@@ -10,4 +10,14 @@ While the light theme is the heart of OA515, there's a matching dark theme to go
 
 ## Images
 
-The font in these screenshots is *Menlo*
+##### OA515 Light
+![OA515 Light Theme](./images/OA515-light.png)
+
+##### OA515 Dark
+![OA515 Dark Theme](./images/OA515-light.png)
+
+## Attribution
+
+- The font in the above screenshots is *Menlo*
+- This theme was originally developed on themes.vscode.one
+
