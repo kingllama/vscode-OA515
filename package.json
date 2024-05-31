@@ -2,9 +2,10 @@
 	"name": "oa515",
 	"displayName": "OA515",
 	"description": "An oasis in a desert of light themes",
-	"version": "1.2.0",
+	"version": "^1.2.0",
 	"publisher": "king_llama",
 	"license": "MIT",
+	"pricing": "Free",
 	"repository": {
 		"type": "git",
 		"url": ""
@@ -18,6 +19,10 @@
 	"keywords": [
 		"theme"
 	],
+	"galleryBanner": {
+    "color": "#f7f4eb",
+    "theme": "light"
+  },
 	"icon": "./icon.png",
 	"contributes": {
 		"themes": [
